@@ -1,4 +1,4 @@
-# Hello there 👋,my name is RedStars for friends Red 🟥
+# 👋 Hello there, my name is RedStars for friends Red 🟥
 
 ```js
 const red = {
