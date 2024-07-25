@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
+  <a href="https://linktr.ee/redstar071" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
