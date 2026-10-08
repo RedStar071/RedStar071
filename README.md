@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img height="150" src="https://avatars.githubusercontent.com/u/76824516" alt="RedStar071 avatar" />
+
 # hi there! i'm RedStar 👋
 
 i build Discord bots and open-source tooling for the web. these days i'm maintaining [WolfStar](https://wolfstar.rocks) and [Stars Components](https://stars-components.js.org).
