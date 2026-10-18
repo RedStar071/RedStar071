@@ -24,7 +24,7 @@ i build Discord bots and open-source tooling for the web. these days i'm maintai
 ## what i'm listening to
 
 <a href="https://open.spotify.com/user/d7idltb8rrr4oqk3izjefxd1d">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=d7idltb8rrr4oqk3izjefxd1d&count=5&unique=true" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d7idltb8rrr4oqk3izjefxd1d&count=5&unique=true" alt="Spotify recently played" />
 </a>
 
 ## what i've made
